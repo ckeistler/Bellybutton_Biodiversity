@@ -114,7 +114,7 @@ function buildCharts(sample) {
     
     // 2. Create the layout for the bubble chart.
       var bubbleLayout = {
-        title: "Bacteria Cultures Per Sample",
+        title: "Bacteria Culture Per Sample",
         xaxis: {
           title: "OTU ID"},
         height: 500,
